@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/final-project/",
+    "build": "vite build --base=/js_67_Nataliia2212/",
     "preview": "vite preview"
   },
   
